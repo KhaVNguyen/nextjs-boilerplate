@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <BasicLayout>
       <p>hello</p>
-      <Title>Title 👋</Title>
+      <Title>Title</Title>
     </BasicLayout>
   )
 }
