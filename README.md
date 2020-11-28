@@ -5,6 +5,11 @@ Includes Eslint (with pre commit linting), Prettier, Styled Components
 ## Instructions
 
 ```
+curl https://codeload.github.com/KhaVNguyen/nextjs-boilerplate/tar.gz/master | tar -xz nextjs-boilerplate
+cd nextjs-boilerplate
+
+
+
 yarn
 yarn dev
 ```
